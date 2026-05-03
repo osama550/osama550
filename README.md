@@ -1,92 +1,99 @@
-<h1 align="center">Hi 👋, I'm Osama Kamel</h1>
-<h3 align="center">Flutter Developer | Clean Architecture | SaaS Systems</h3>
+<div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+
+# Hi, I'm Osama 👋  
+### Flutter Developer
+
+🚀 Building scalable mobile & web apps using Flutter  
+🧠 Focused on Clean Architecture, performance & real-world systems  
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 💼 Flutter Developer with **2+ years of experience**
-- 🏗️ Specialized in **Clean Architecture & scalable systems**
-- 📱 Building **SaaS platforms (booking, ordering, POS, healthcare)**
-- ⚡ Focused on **performance, offline-first apps & real-time systems**
-- 🌍 Based in Cairo, Egypt
+## 👨‍💻 About Me
+
+- Flutter Developer with **2+ years of experience**
+- Built **multi-vertical SaaS apps** (booking, ordering, POS systems)
+- Strong focus on **Clean Architecture + BLoC/Cubit**
+- Experience with **offline-first apps & real-time systems**
+- Worked on **AI-powered features (chat, voice, TTS/STT)**
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
-### 📱 Mobile Development
+### 📱 Mobile & Architecture
 - Flutter, Dart  
-- BLoC / Cubit  
 - Clean Architecture, MVVM  
+- BLoC / Cubit  
 - GoRouter  
 
-### 🔗 Backend & Integrations
+### 🔌 Backend & Integrations
 - REST APIs (Dio)  
-- WebSockets (Pusher)  
 - Firebase, Supabase  
+- WebSockets (Pusher)  
 - Google Maps, Payment Gateways  
+- OneSignal (Notifications)  
 
-### 💾 Storage & Offline
-- Hive  
+### 💾 Storage
+- Hive (Offline-first)  
 - SharedPreferences  
 - Secure Storage  
 
-### ⚙️ Tools & DevOps
-- Git, GitHub Actions  
+### ⚙️ Tools
+- Git & GitHub  
 - Fastlane, Jenkins  
-- Sentry, Postman, Jira  
+- Postman, Jira  
+- Figma  
 
 ---
 
-## 🏆 Key Projects
+## 🚀 Featured Projects
 
-### 📲 Customer App (Mobile & Web)
-- Full SaaS platform for **booking, ordering, payments**
-- Integrated **Firebase, Maps, KNET, Notifications**
-- Implemented **Deep Linking & real-time updates**
-
----
+### 📦 SaaS Customer App (Mobile & Web)
+- Booking, ordering, and payments system  
+- Integrated Firebase, Maps & payment gateways  
+- Implemented deep linking & push notifications  
 
 ### 🧾 Orders Management System
-- Real-time vendor dashboard for **orders & reservations**
-- Built with **WebSockets + push notifications**
-- Managed full **order lifecycle via APIs**
+- Real-time order tracking using WebSockets  
+- Full order lifecycle (create, update, manage)  
+- Built for vendors & reservations  
 
----
-
-### 💳 Tablet POS App (Offline First)
-- Multi-business POS system (restaurants, showrooms, etc.)
-- Designed **offline-first architecture using Hive**
-- Ensured **100% usability without internet**
-
----
+### 🖥 Tablet POS (Offline-first)
+- Works fully **without internet**  
+- Built using Hive for local persistence  
+- Designed for **multiple business types**  
 
 ### 🏥 Hirsto Healthcare App
-- AI-powered healthcare platform
-- Integrated:
-  - **Streaming AI Chat**
-  - **Voice (TTS/STT - ElevenLabs)**
-  - **Video Calls (Zego)**
-- Built **secure medical records & family accounts system**
+- AI-powered chat + voice assistant (TTS/STT)  
+- Video/voice calls (Zego)  
+- Health tracking & medical records system  
 
 ---
 
-## 📈 What I Focus On
-- Scalable architecture (Clean Architecture)
-- High-performance Flutter apps
-- Real-time systems (WebSockets)
-- Offline-first experiences
-- Production-ready SaaS apps
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+
+</div>
 
 ---
 
 ## 📫 Contact Me
+
 - 📧 osamakamel758@gmail.com  
-- 📱 +20 109 058 0579  
-- 💼 LinkedIn: (add your link)
-- 💻 GitHub: (add your link)
+- 📍 Cairo, Egypt  
+- 💼 LinkedIn (add your link)  
+- 💻 GitHub (add your link)  
 
 ---
 
 ## ⚡ Fun Fact
-I build apps that **still work even when the internet doesn’t** 😄
+Debugging sometimes takes longer than building the feature 😄
