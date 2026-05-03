@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=📱+Flutter+Developer+%7C+2%2B+Years+Experience;🏗️+Clean+Architecture+%7C+BLoC%2FCubit+%7C+Modular+Design;⚡+Real-Time+Systems+%7C+Offline-First+Apps;🚀+Built+Scalable+SaaS+Products+(Mobile+%2B+Web);🌍+Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=📱+Flutter+Developer+%7C+2%2B+Years+Experience;🏗️+Clean+Architecture+%7C+BLoC%2FCubit;⚡+Scalable+SaaS+Applications+(Mobile+%2B+Web);🌐+Offline-first+%7C+Real-time+Systems;🚀+Production+Apps+Serving+Multiple+Business+Domains)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,162 +20,130 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
+
+### Hi, I'm Osama 👋
 
 Flutter Developer with **2+ years of experience** building **scalable SaaS systems** across mobile and web.
 
 - 🏗️ Specialized in **Clean Architecture & modular system design**
-- ⚡ Strong experience in **real-time apps (WebSockets / Pusher)**
-- 📱 Built **multi-app ecosystems (Customer, Orders, Admin, POS)**
-- 🌐 Delivered **offline-first apps with local persistence**
-- 🤖 Worked on **AI-powered healthcare systems & voice integrations**
-- 📍 Based in Egypt — open to **remote roles**
+- ⚡ Strong experience with **BLoC/Cubit & high-performance apps**
+- 🌐 Built **multi-tenant platforms** (booking, ordering, POS, dashboards)
+- 🔄 Expert in **real-time systems (WebSockets, push notifications)**
+- 📦 Developed **offline-first apps** with seamless user experience
+- 📍 Based in Egypt — Open to remote opportunities
 
 ---
 
-## ⚡ Core Expertise
-📱 Cross-Platform Apps ─────── Flutter (Mobile + Web)
-🏗️ Architecture ─────── Clean Architecture / MVVM
+## ⚡ Quick Highlights
+🚀 Production Apps ─────── Multiple SaaS Systems
+🏢 Business Domains ─────── Restaurants · Booking · POS · Healthcare
+🏗️ Architecture ─────── Clean Architecture
 ⚡ State Management ─────── BLoC / Cubit
-🔄 Real-Time Systems ─────── WebSockets / Pusher
-📡 Offline Systems ─────── Hive / Local Caching
-🔐 Integrations ─────── Payments / Maps / Notifications
-🚀 DevOps ─────── CI/CD / Fastlane / GitHub Actions
+🌐 Platforms ─────── Mobile + Web
+📡 Real-time Systems ─────── WebSockets / Push Notifications
+📴 Offline Mode ─────── Hive / Local Caching
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,figma,postman&theme=dark&perline=8"/>
-</p>
+Flutter · Dart · Firebase · Supabase · REST APIs
 
-### Architecture & Patterns
+### Architecture
+Clean Architecture · BLoC/Cubit · MVVM · SOLID · Design Patterns
 
-- Clean Architecture (Domain / Data / Presentation)
-- BLoC / Cubit (Reactive state management)
-- MVVM
-- SOLID Principles
-- Repository Pattern
+### Backend & Integration
+Dio · WebSockets · OneSignal · Payment Gateways · Google Maps
 
-### Backend & Integrations
+### Storage
+Hive · SharedPreferences · Secure Storage
 
-- REST APIs (Dio)
-- WebSockets (Pusher)
-- Firebase / Supabase
-- Google Maps
-- OneSignal (Push Notifications)
-- Payment Gateways (KNET & others)
-- ElevenLabs (TTS / STT)
-- Zego (Video / Voice Calls)
-
-### Storage & Offline
-
-- Hive
-- SharedPreferences
-- Secure Storage
+### Tools
+Git · GitHub Actions · Jenkins · Fastlane · Sentry · Jira · Postman
 
 ---
 
 ## 🚀 Key Projects
 
-### 🏢 SaaS Multi-App Platform (BARQ)
+### 🟢 SaaS Multi-App Platform (BARQ)
 
-**Mobile + Web System for booking, ordering, and business management**
-
-- Built **full ecosystem** (Customer App, Orders App, POS Tablet)
+- Built a **multi-vertical SaaS system** (booking, ordering, management)
+- Supported **mobile + web apps from one backend**
 - Implemented **real-time updates using WebSockets**
-- Designed **dynamic remote configuration system**
+- Developed **remote config system** to control UI without releases
 - Integrated **payments, maps, notifications**
-- Enabled **offline-first experience with caching**
+- Designed **offline-first architecture** for reliability
 
 ---
 
-### 📱 Customer App
+### 🟡 Tablet POS (Offline System)
 
-- Booking, ordering & payments system
-- Firebase + Google Maps integration
-- Deep linking & push notifications
-
----
-
-### 🧾 Orders Management App
-
-- Real-time order tracking system for vendors
-- Live updates via WebSockets
-- Full order lifecycle management
+- Built **fully offline POS/catalog app**
+- Designed system using **Hive for local persistence**
+- Ensured **zero dependency on the internet**
+- Optimized for **fast performance and smooth UX**
 
 ---
 
-### 🧮 Tablet POS (Offline-First)
+### 🔵 Orders & Customer Apps
 
-- Works بالكامل بدون إنترنت
-- Local database using Hive
-- Fast and smooth performance with cached data
-
----
-
-### 🏥 Hirsto Healthcare App
-
-- AI-powered medical assistant (streaming chat)
-- Voice interaction (TTS / STT)
-- Video & voice calls via Zego
-- Health tracking + medical reports
-- Multi-user system for families
+- Developed **customer app** (booking, ordering, payments)
+- Built **vendor order management system**
+- Implemented:
+  - 🔔 Push notifications (OneSignal)
+  - 🔗 Deep linking
+  - 📡 Real-time updates
 
 ---
 
-### 🌐 Dubisign Dashboard (Web)
+### 🔴 Hirsto Healthcare App
 
-- Built a responsive Flutter Web dashboard
-- API integration with Dio
-- Reusable UI system
-- Performance optimizations
+- Built **AI-powered healthcare system**
+- Integrated:
+  - 🤖 Streaming AI chat
+  - 🎤 ElevenLabs (TTS/STT)
+  - 📹 Zego (video/voice calls)
+- Developed **health tracking & medical reports**
+- Implemented **multi-user & secure data handling**
 
 ---
 
 ## 💼 Experience
 
-### Flutter Developer — BARQ Solutions  
-*Kuwait | Remote | 2024 – Present*
+### Flutter Developer — BARQ Solutions
+**2024 – Present · Remote**
 
-- Built scalable SaaS systems across multiple business domains  
-- Architected modular apps using Clean Architecture + BLoC  
-- Implemented real-time systems using WebSockets  
-- Delivered offline-first features for reliability  
-
----
-
-### Flutter Developer — Hirsto  
-*Dubai | Freelance | 2025*
-
-- Developed an AI-powered healthcare system  
-- Integrated voice, video, and AI features  
+- Built scalable SaaS apps across multiple industries
+- Designed modular architecture for maintainability
+- Implemented real-time and offline systems
+- Delivered high-performance cross-platform apps
 
 ---
 
-### Flutter Developer Intern — Dubisign  
-*Mansoura | On-site | 2023 – 2024*
+### Flutter Developer — Hirsto
+**Freelance · 2025**
 
-- Built Flutter Web dashboard from Figma  
-- Integrated APIs and improved performance  
+- Developed a healthcare ecosystem with AI features
+- Integrated voice & video communication systems
 
 ---
 
-## 🎓 Education
+### Flutter Developer Intern — DUBISIGN
+**2023 – 2024**
 
-**Bachelor of Computer Science**  
-Zagazig University — Faculty of Computers & Information  
-*Graduation Project: Excellent (A)*  
+- Built a responsive Flutter Web dashboard
+- Integrated APIs and optimized performance
 
 ---
 
 ## 🧠 Problem Solving
 
-- Data Structures & Algorithms  
-- Competitive Programming mindset  
-- Strong analytical thinking  
+- Data Structures & Algorithms
+- System Design Thinking
+- Performance Optimization
 
 ---
 
