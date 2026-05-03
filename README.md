@@ -53,7 +53,7 @@
 ## 🚀 Featured Projects
 
 ### 📦 SaaS Customer App (Mobile & Web)
-- Booking, ordering, and payments system  
+- Booking, ordering, and payment system  
 - Integrated Firebase, Maps & payment gateways  
 - Implemented deep linking & push notifications  
 
